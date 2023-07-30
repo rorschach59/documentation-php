@@ -41,4 +41,4 @@ $userService = new UserService($database);
 $users = $userService->getAllUsers();
 ```
 
-_source : https://putaindecode.io/articles/injection-de-dependances-en-php/_
+_source : [https://putaindecode.io/articles/injection-de-dependances-en-php/](https://putaindecode.io/articles/injection-de-dependances-en-php/)_

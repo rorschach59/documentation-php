@@ -19,4 +19,4 @@ function sum(...$numbers) {
     return $total;
 }
 ```
-_source : https://www.exakat.io/en/php-8-0-named-parameters-and-variadic_
+_source : [https://www.exakat.io/en/php-8-0-named-parameters-and-variadic](https://www.exakat.io/en/php-8-0-named-parameters-and-variadic)_

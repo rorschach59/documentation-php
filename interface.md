@@ -50,5 +50,5 @@ $obj->sayHello(); // Affiche "Bonjour!"
 ```
 
 _sources :_
-* https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/oriente-objet-interface
-* https://grafikart.fr/tutoriels/interfaces-521#autoplay
+* [https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/oriente-objet-interface](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/oriente-objet-interface)
+* [https://grafikart.fr/tutoriels/interfaces-521](https://grafikart.fr/tutoriels/interfaces-521)

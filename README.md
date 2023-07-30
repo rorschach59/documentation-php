@@ -18,10 +18,10 @@
 [L'injection de dépendance](injection_dependance.md)
 
 _sources :_
-* https://kinsta.com/fr/blog/php-8/
-* https://wiki.php.net/rfc/named_params
-* https://www.exakat.io/en/php-8-0-named-parameters-and-variadic
-* https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/oriente-objet-interface
-* https://grafikart.fr/tutoriels/interfaces-521#autoplay
-* https://putaindecode.io/articles/injection-de-dependances-en-php/
-* https://tutowebdesign.com/poo-php.php
+* [https://kinsta.com/fr/blog/php-8](https://kinsta.com/fr/blog/php-8/)
+* [https://wiki.php.net/rfc/named_params](https://wiki.php.net/rfc/named_params)
+* [https://www.exakat.io/en/php-8-0-named-parameters-and-variadic](https://www.exakat.io/en/php-8-0-named-parameters-and-variadic)
+* [https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/oriente-objet-interface](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/oriente-objet-interface)
+* [https://grafikart.fr/tutoriels/interfaces-521](https://grafikart.fr/tutoriels/interfaces-521)
+* [https://putaindecode.io/articles/injection-de-dependances-en-php/](https://putaindecode.io/articles/injection-de-dependances-en-php/)
+* [https://tutowebdesign.com/poo-php.php](https://tutowebdesign.com/poo-php.php)
